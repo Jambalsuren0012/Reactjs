@@ -1,7 +1,8 @@
-const Navbar = () => {
+const Header = () => {
      return <div className="Navbar">
         <div className="Navlogo">
             <img src="./images/Leap.png" alt="" />
+            <img src="./images/Saly-16.png" alt="" />
         </div>
         <div className="Navmenu">
 
@@ -9,4 +10,4 @@ const Navbar = () => {
         </div>
      </div>;
 };
-export default Navbar
+export default Header
