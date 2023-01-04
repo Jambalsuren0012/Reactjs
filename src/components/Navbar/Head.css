@@ -1,0 +1,15 @@
+
+.blogh1{
+    color: #D05270;
+    font-size: 3rem;
+}
+.blogh2{
+    color: #424242;
+    font-size: 2rem;
+}
+.Headtext{
+    display: flex;
+}
+.Headtag{
+    width: 50vw;
+}

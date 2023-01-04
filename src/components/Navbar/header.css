@@ -1,0 +1,15 @@
+.Menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    
+}
+.Menu li{
+    padding-left: 1rem;
+}
+.Navlogo{
+    display: flex;
+    height: 2rem;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,7 +1,7 @@
-const Footer = () => {
-    return 
-    <div>
-        <img src="./images/Vector.png" alt="" />
-    </div>;
-};
-export default Footer
+// const Footer = () => {
+//     return 
+//     <div className="">
+//         <img src="./images/Vector.png" alt="" />
+//     </div>;
+// };
+// export default Footer       

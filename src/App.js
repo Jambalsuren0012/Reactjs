@@ -1,13 +1,14 @@
 
-import Header from "./components/Header";
+import Header from "./components/Navbar/Header";
 import Content from "./components/Content";
-import Footer from "./components/footer";
+import Head from "./components/Navbar/Head";
 function App() { 
   return (
     <div>
       <Header/>
+      <Head/>
       <Content/>
-      <Footer/>
+      
     </div>
   )
  
