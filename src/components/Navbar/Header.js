@@ -3,11 +3,13 @@ import "../Navbar/header.css"
 const Header = () => {
      return <div className="Navbar">
         <div className="Navlogo">
-            <div>
-            <img src="./images/Leap.png" alt="" />
-            <img src="./images/Rectangle 114.png" alt="" />
+            <div className="logo">
+            <img className="Logo2" src="./images/Leap.png" alt="" />
+            <div className="back">
+                <img src="./images/Vector (4).png" alt="" />
+               Hire me
             </div>
-
+            </div>
       
             <ul className="Menu">
                 <li>PORTFOLO</li>
